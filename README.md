@@ -1,5 +1,8 @@
 # GRvegetation
-R scripts for the manuscript entitled "Enhancing healthy vegetation growth on green roofs".
+R scripts and data for the manuscript entitled "Enhancing healthy vegetation growth on green roofs".
+
+The code is readily to be excuted after correctly edit the file path in a local desktop/laptop installed with R.
+
 
 # File names and descriptions
 ### File name: green_roof_temporal_variations.R
@@ -20,3 +23,7 @@ Description: analysis of the effects of design factors on vegetation on individu
 
 ### File name: correlations_NDVI_VIs.R
 Description: correlations between mean NDVI and mean SAVI, mean GNDVI, and mean CIg 
+
+
+# Citation
+Please cite the following papers when using the code and data: Liao, W., Appleby, M., Rosenblat, H., Halim, M., Rogers, C., Chen, J., Margolis, L., Drake, J., & Thomas, S. (in revision). Enhancing healthy vegetation growth on green roofs. Nature Cities. https://www.researchsquare.com/article/rs-6049604/v1
