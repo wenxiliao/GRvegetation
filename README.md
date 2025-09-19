@@ -25,4 +25,4 @@ Description: correlations between mean NDVI and mean SAVI, mean GNDVI, and mean 
 
 
 ## Citation
-Please cite the following papers when using the code and data: Liao, W., Appleby, M., Rosenblat, H., Halim, M., Rogers, C., Chen, J., Margolis, L., Drake, J., & Thomas, S. (in revision). Enhancing healthy vegetation growth on green roofs. Nature Cities. https://www.researchsquare.com/article/rs-6049604/v1
+Please cite the following papers when using the code and data: Liao, W., Appleby, M., Rosenblat, H., Halim, M., Rogers, C., Chen, J., Margolis, L., Drake, J., & Thomas, S. (2025). Remote sensing for healthy vegetation on green roofs. Nature Cities. https://www.researchsquare.com/article/rs-6049604/v1
